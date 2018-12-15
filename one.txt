@@ -1,5 +1,0 @@
-this is the one
-this is the two
-this is the thr
-这是在 kun 分支上写的一句话
-master 修改
